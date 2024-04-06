@@ -10,7 +10,7 @@ return (
       alt={username}
       className="avatar"
     />
-    <p className="name">{username.username}</p>
+    <p className="name">{username}</p>
     <p className="tag">{tag}</p>
     <p className="location">{location}</p>
   </div>
